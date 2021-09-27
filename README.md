@@ -6,4 +6,3 @@ Instructions:
 • Each function of the program has its own ".py" file.
 • The output of the program is in the output folder.
 
-////////////////////////////////Happy coding!
