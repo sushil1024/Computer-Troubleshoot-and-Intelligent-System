@@ -1,5 +1,5 @@
 # Computer-Troubleshoot-and-Intelligent-System
-This project is completely made with Python. Comments are added to understand the code properly.
+Analyses the issue base on questions asked and suggests a solution.
 
 Instructions:
 • Run the "Main.py" for execution of the entire program.
